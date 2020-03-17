@@ -22,3 +22,8 @@ Specify a country and the script will print available provinces.
 -g/--graph - draws a graph
 
 -s/--save - save data to file
+
+e.g. python3 covid19.py -c US -p California -g -s
+
+# Depenencies
+There are various libraries required.
