@@ -3,6 +3,7 @@ Python script to quickly plot data from around the world. Uses https://covid19ap
 
 # Structure
 core.py - main python functions
+
 covid19.py - command line interface
 
 # Development
