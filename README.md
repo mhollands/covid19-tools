@@ -1,5 +1,5 @@
 # covid19-tools
-Python script to quickly plot data in any location
+Python script to quickly plot data from around the world. Uses https://covid19api.com API. 
 
 # Structure
 core.py - main python functions
