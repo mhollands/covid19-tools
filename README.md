@@ -25,5 +25,5 @@ Specify a country and the script will print available provinces.
 
 e.g. python3 covid19.py -c US -p California -g -s
 
-# Depenencies
+# Dependencies
 There are various libraries required.
