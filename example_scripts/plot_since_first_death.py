@@ -1,8 +1,10 @@
 # Quick script to plot cases with the dates aligned to first death
 
-import core
 import matplotlib.pyplot as plt
 import numpy as np
+import sys
+sys.path.insert(1, './..')
+import core
 
 countries = ["Italy", "China", "Korea, South", "US", "United Kingdom", "France", "Spain", "Germany"]
 populations = [60.48e6, 1386e6, 51.47e6, 327.2e6, 66.44e6, 66.99e6, 46.66e6, 82.79e6]
