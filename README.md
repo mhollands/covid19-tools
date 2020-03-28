@@ -24,6 +24,8 @@ Specify a country and the script will print available provinces.
 
 -s/--save - save data to file
 
+-d/--delta - plot deltas instead of absolute values
+
 e.g. python3 covid19.py -c US -p California -g -s
 
 # Dependencies
